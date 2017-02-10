@@ -1,5 +1,5 @@
 # Site settings
-title: ":fire: Life"
+title: ".la vie est belle."
 author: "Heather :fire: Luna"
 description: "This is a blog about software, some mathematics, and the occasional philosophy. Not necessarily in that order."
 keywords: "Software Engineering, Mathematics, Philosophy, Scala, Epistemology, Existentialism, Programming, Machine-Learning, Artificial Intelligence, Statistics, Probability, Puzzles"
@@ -9,11 +9,9 @@ colophon: "© MMXIII — MMXVI by Hugo Sereno Ferreira.<br>Content available und
 baseurl: ""
 url: "http://heats.life"
 
-twitter_username: ferreira_hugo
-github_username: hugoferreira
-linkedin_username: hugoserenoferreira
-facebook_username: hugo.sereno.ferreira
-google-analytics: UA-69060-5
+twitter_username: @h34th3r329
+github_username: daheats
+linkedin_username: heather-luna
 
 simple_search: http://google.com/search
 markdown: kramdown
