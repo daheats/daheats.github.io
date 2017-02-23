@@ -26,7 +26,7 @@ Exercise in the morning! As daunting as it is to roll out of bed and go immediat
 Stop watching TV. At least an hour before bed turn the TV off. Read a book! Do something that’s easy. 
 Enable the night shift on your phone. Whether you’re running Apple, Android, etc. there should be a setting that allows you to warm the colors on your phone. Certain light spectrums have been tied to insomnia. The night shift settings help this issue. 
 
-Thanks to <a href="https://twitter.com/webology">Jeff Triplett</a> for proofing this post, allowing my "heatsisms" fly. Also for teaching me the importance of index.html :) 
+Thanks to <a href="https://twitter.com/webology">Jeff Triplett</a> for proofing this post, allowing my "heatsisms" to fly, and also for teaching me the importance of index.html :) and to <a href="https://twitter.com/laceynwilliams">Lacey</a> for helping me sort out my HTML in this paragraph. I'm such a newbie and coding can be terrifying but the support of my frandlies helps make it not so bad. 
 
 
 
