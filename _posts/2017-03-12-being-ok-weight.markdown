@@ -37,7 +37,7 @@ Having a “swim friend” who’s a monster in the pool is helpful. I have some
 
 
 
-Thanks to <a href="https://twitter.com/webology">Jeff Triplett</a> for proofing this post, allowing my "heatsisms" to fly.
+Thanks to <a href="https://twitter.com/webology">Jeff Triplett</a> for proofing this post and allowing my "heatsisms" to fly.
 
 
 
