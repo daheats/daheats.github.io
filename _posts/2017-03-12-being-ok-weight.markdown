@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Losing 10
+title: Losing 10. Hooray.
 date: 2017-02-22
 comments: true
 external-url:
