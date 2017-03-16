@@ -4,7 +4,7 @@ title: Losing 10
 date: 2017-02-22
 comments: true
 external-url:
-categories: Positivity Weight Loss Health Excerise
+categories: "Positivity, Weight Loss, Health, Excerise"
 ---
 
 > 
