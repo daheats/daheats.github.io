@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Looking Back on a Decade
+title: Looking Back on a Decade.
 date: 2017-03-27
 comments: true
 external-url:
