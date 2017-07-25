@@ -8,7 +8,7 @@ categories: "Moving"
 ---
 
 >
-It’s hard to believe we’ve been in Washington for almost 3 weeks
+It’s hard to believe we’ve been in Washington for a month
 already. We’re still getting settled with the dogs and the dogs are
 settling in too. Ecky and Ada are getting used to apartment life.
 Ecky’s getting used to apartment life *again*. Unfortunately, Ada
