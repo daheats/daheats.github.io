@@ -101,16 +101,17 @@ To get started, I highly suggest using the [Color Skills Tutorial](https://devel
 this is how I figured out all of the moving parts to an Alexa skill. 
 And to sweeten the deal, you don’t need an Alexa device if you don’t
 have one. You can use the [Alexa Skill Testing Tool, Echosim](https://echosim.io/welcome) 
-which links to your Amazon account to test your skill before publishing 
-- you can test in development mode. And now, you can even invite
+which links to your Amazon account to test your skill before publishing - you
+can test in development mode. And now, you can even invite
 [Beta Testers](https://developer.amazon.com/docs/custom-skills/skills-beta-testing-for-alexa-skills.html) 
 to test your skill too! 
 
 I like to point out in my “Alexa…” talk that Amazon loves to reward
 their published skills developers. [Prizes range from socks, sweatshirts,
-t-shirts and more](https://developer.amazon.com/alexa-skills-kit/alexa-developer-skill-promotion).   
-Who doesn’t love swag? They also offer [AWS Promotional Credits](https://developer.amazon.com/alexa-skills-kit/alexa-aws-credits) which make most skills free to run. There’s really nothing stopping
-anyone from diving in and building a skill. So what’s stopping you? 
+t-shirts and more](https://developer.amazon.com/alexa-skills-kit/alexa-developer-skill-promotion). Who
+doesn’t love swag? They also offer [AWS Promotional Credits](https://developer.amazon.com/alexa-skills-kit/alexa-aws-credits)
+which make most skills free to run. There’s really nothing stopping
+anyone from diving in and building a skill. So what’s stopping you?
 Happy Coding and Happy Days!
 
 
