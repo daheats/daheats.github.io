@@ -1,14 +1,14 @@
 # Site settings
-title: "la vie est belle"
-author: "Heather :fire: Luna"
-description: "la vie est belle - life is beautiful. This blog is a personal exercise in focussing more on the positives and accomplishments in my life rather than the negatives and short-comings."
-keywords: "Technology, Life, Development, Career, "
-biography: "I'm just a girl in the world... (Gwen Stefani) who loves technology and lots of other cool things!" 
+title: "It's a small world after all!"
+author: "Heather Luna"
+description: "A blog to document my new non-technical hobby, mini dollhouse building!"
+keywords: "Dollhouse kits, Dollhouse building, Miniature crafts, Miniature dollhouses, dollhouse miniatures, dollhouse decorating "
+biography: "I'm a nerd at heart who was looking for a hobby that didn't involve technology and I landed on miniature dollhouse builds. I'll document my journey so you can experience all the wins (and frustrations)! " 
 inspiration: this blog in Jekyll inspired by <a href="https://twitter.com/webology">Jeff Triplett</a>
 
 
 baseurl: ""
-url: "http://heats.life"
+url: "http://itsasmallworld.art"
 
 twitter_username: h34th3r329
 github_username: daheats
