@@ -1,1 +1,29 @@
+# Site settings
+title: "It's a small world after all!"
+author: "Heather Luna"
+description: "A blog to document my new non-technical hobby, mini dollhouse building!"
+keywords: "Dollhouse kits, Dollhouse building, Miniature crafts, Miniature dollhouses, dollhouse miniatures, dollhouse decorating "
+biography: "I'm a nerd at heart who was looking for a hobby that didn't involve technology and I landed on miniature dollhouse builds. I'll document my journey so you can experience all the wins (and frustrations)! " 
+inspiration: this blog in Jekyll inspired by <a href="https://twitter.com/webology">Jeff Triplett</a>
 
+
+baseurl: ""
+url: "http://itsasmallworld.art"
+
+twitter_username: h34th3r329
+github_username: daheats
+linkedin_username: heather-luna
+
+simple_search: http://google.com/search
+markdown: kramdown
+highlighter: rouge
+permalink: /blog/:year/:month/:day/:title/
+
+gems:
+  #- jekyll-archives
+  #- jekyll-coffeescript
+  #- jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jemoji
